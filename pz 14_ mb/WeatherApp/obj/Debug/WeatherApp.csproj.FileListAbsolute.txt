@@ -1,0 +1,28 @@
+C:\Users\сёма\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\сёма\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\сёма\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\сёма\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\сёма\source\repos\WeatherApp\WeatherApp\obj\Debug\MainWindow.baml
+C:\Users\сёма\source\repos\WeatherApp\WeatherApp\obj\Debug\MainWindow.g.cs
+C:\Users\сёма\source\repos\WeatherApp\WeatherApp\obj\Debug\App.g.cs
+C:\Users\сёма\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp_MarkupCompile.cache
+C:\Users\сёма\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.g.resources
+C:\Users\сёма\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\сёма\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\сёма\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\сёма\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\сёма\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\ICE SHINE\Desktop\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\ICE SHINE\Desktop\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\ICE SHINE\Desktop\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\ICE SHINE\Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\ICE SHINE\Desktop\WeatherApp\WeatherApp\obj\Debug\MainWindow.baml
+C:\Users\ICE SHINE\Desktop\WeatherApp\WeatherApp\obj\Debug\MainWindow.g.cs
+C:\Users\ICE SHINE\Desktop\WeatherApp\WeatherApp\obj\Debug\App.g.cs
+C:\Users\ICE SHINE\Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp_MarkupCompile.cache
+C:\Users\ICE SHINE\Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.g.resources
+C:\Users\ICE SHINE\Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\ICE SHINE\Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\ICE SHINE\Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\ICE SHINE\Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\ICE SHINE\Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb

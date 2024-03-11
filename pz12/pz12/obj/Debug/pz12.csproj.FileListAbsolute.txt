@@ -1,0 +1,28 @@
+C:\Users\сёма\source\repos\pz12\pz12\bin\Debug\pz12.exe.config
+C:\Users\сёма\source\repos\pz12\pz12\bin\Debug\pz12.exe
+C:\Users\сёма\source\repos\pz12\pz12\bin\Debug\pz12.pdb
+C:\Users\сёма\source\repos\pz12\pz12\obj\Debug\pz12.csproj.AssemblyReference.cache
+C:\Users\сёма\source\repos\pz12\pz12\obj\Debug\MainWindow.baml
+C:\Users\сёма\source\repos\pz12\pz12\obj\Debug\MainWindow.g.cs
+C:\Users\сёма\source\repos\pz12\pz12\obj\Debug\App.g.cs
+C:\Users\сёма\source\repos\pz12\pz12\obj\Debug\pz12_MarkupCompile.cache
+C:\Users\сёма\source\repos\pz12\pz12\obj\Debug\pz12.g.resources
+C:\Users\сёма\source\repos\pz12\pz12\obj\Debug\pz12.Properties.Resources.resources
+C:\Users\сёма\source\repos\pz12\pz12\obj\Debug\pz12.csproj.GenerateResource.cache
+C:\Users\сёма\source\repos\pz12\pz12\obj\Debug\pz12.csproj.CoreCompileInputs.cache
+C:\Users\сёма\source\repos\pz12\pz12\obj\Debug\pz12.exe
+C:\Users\сёма\source\repos\pz12\pz12\obj\Debug\pz12.pdb
+C:\Users\ICE SHINE\Desktop\pz12\pz12\bin\Debug\pz12.exe.config
+C:\Users\ICE SHINE\Desktop\pz12\pz12\bin\Debug\pz12.exe
+C:\Users\ICE SHINE\Desktop\pz12\pz12\bin\Debug\pz12.pdb
+C:\Users\ICE SHINE\Desktop\pz12\pz12\obj\Debug\pz12.csproj.AssemblyReference.cache
+C:\Users\ICE SHINE\Desktop\pz12\pz12\obj\Debug\MainWindow.baml
+C:\Users\ICE SHINE\Desktop\pz12\pz12\obj\Debug\MainWindow.g.cs
+C:\Users\ICE SHINE\Desktop\pz12\pz12\obj\Debug\App.g.cs
+C:\Users\ICE SHINE\Desktop\pz12\pz12\obj\Debug\pz12_MarkupCompile.cache
+C:\Users\ICE SHINE\Desktop\pz12\pz12\obj\Debug\pz12.g.resources
+C:\Users\ICE SHINE\Desktop\pz12\pz12\obj\Debug\pz12.Properties.Resources.resources
+C:\Users\ICE SHINE\Desktop\pz12\pz12\obj\Debug\pz12.csproj.GenerateResource.cache
+C:\Users\ICE SHINE\Desktop\pz12\pz12\obj\Debug\pz12.csproj.CoreCompileInputs.cache
+C:\Users\ICE SHINE\Desktop\pz12\pz12\obj\Debug\pz12.exe
+C:\Users\ICE SHINE\Desktop\pz12\pz12\obj\Debug\pz12.pdb

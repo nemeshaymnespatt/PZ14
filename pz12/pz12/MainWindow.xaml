@@ -1,0 +1,11 @@
+﻿<Window x:Class="pz12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Serialization Demo" Height="200" Width="300">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Сериализовать" Click="SerializeButton_Click"/>
+            <Button Content="Десериализовать" Click="DeserializeButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
